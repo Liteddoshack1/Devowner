@@ -4,8 +4,8 @@ from telegram import Update
 from datetime import datetime
 
 # CONFIG (Variables se uthayega)
-TELEGRAM_TOKEN = os.getenv("8756084221:AAHcPQDGHE3roIhn2vYpzAb1pOpunu67D2w") 
-OWNER_ID = int(os.getenv("25833301", 0))
+TELEGRAM_TOKEN = os.getenv("8756084221:AAG6HU6EDtNlgDj-os6TCtbr5wshvIPrPg0") 
+OWNER_ID = int(os.getenv("5662309382", 0))
 
 FILES = ["vps.json", "users.json", "keys.json", "resellers.json"]
 for f in FILES: 
